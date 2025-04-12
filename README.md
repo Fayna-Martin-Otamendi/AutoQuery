@@ -93,15 +93,5 @@ Despliegue y Escalabilidad: Implementación en el entorno de producción y ajust
 
 Monetización: Integración de métodos de pago (Stripe) para ofrecer suscripciones mensuales o ventas puntuales del sistema.
 
-Resumen del Stack Tecnológico Utilizado:
-Herramienta/Plataforma	Funcionalidad	Notas
-OpenAI GPT-4 API	Generación de respuestas automáticas en lenguaje natural	Potente IA para generación de texto
-n8n / Make	Automatización de flujos de trabajo y comunicación	Gestión de procesos y respuestas automáticas
-DALL·E / Leonardo AI	Generación de imágenes para publicaciones	Para crear contenido visual atractivo
-Google Sheets	Almacenamiento de preguntas frecuentes	Gestión simple de datos
-Cloudinary	Almacenamiento y distribución de imágenes	Almacenamiento de imágenes generadas por IA
-10Web	Alojamiento web y gestión de sitios WordPress	Para alojar el sistema o sitio web del cliente
-Buffer / Publer	Publicación automatizada en redes sociales	Automatización de contenido para Instagram, LinkedIn, Pinterest
-Stripe / Lemon Squeezy	Gestión de pagos y suscripciones	Procesamiento de pagos online
 Conclusión:
 El Sistema Automatizado para la Gestión de Consultas Frecuentes está diseñado para ser una solución accesible, eficiente y escalable para pequeñas empresas. Utilizando IA, automatización y herramientas de fácil integración, este sistema permite a las empresas gestionar consultas repetitivas de manera eficiente, mejorando la productividad y la satisfacción del cliente. Su capacidad de escalar y adaptarse a diferentes sectores lo convierte en una opción ideal para el mercado.
